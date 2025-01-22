@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>
-    Atividade da Unidade 1 da Disciplina de Desenvolvimento Web 1
+    Atividade da Unidade 3 da Disciplina de Desenvolvimento Web 1
   </strong>
 </p>
 
