@@ -12,7 +12,7 @@
 - [Unidade 7 – Responsividade de Páginas Web com CSS](#unidade-7--responsividade-de-páginas-web-com-css)
 - [Unidade 8 – Frameworks CSS](#unidade-8--frameworks-css)
 
-![Banner da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](./.github/banner.jpg)
+![Banner da disciplina de Desenvolvimento Web 1 do curso de Técnico em Informática para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](.github/banner.jpg)
 
 ## Sobre a Disciplina
 
