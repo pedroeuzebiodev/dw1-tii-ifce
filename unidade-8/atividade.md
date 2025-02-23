@@ -1,15 +1,32 @@
-**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
-**Campus Baturité**
-**Curso Técnico Subsequente em Informática para Internet**
+<p align="center">
+  <strong>
+    Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br>
+    Campus Baturité <br>
+    Curso Técnico Subsequente em Informática para Internet
+  </strong>
+</p>
 
-**Atividade da Unidade 1 da Disciplina de Desenvolvimento Web 1**
+<p align="center">
+  <strong>
+    Atividade da Unidade 8 da Disciplina de Desenvolvimento Web 1
+  </strong>
+</p>
 
-**Baturité-CE**
-**2024**
+<p align="center">
+  <strong>
+    Baturité-CE <br>
+    2024
+  </strong>
+</p>
 
-**Identificação do Aluno**
+<p align="center">
+  <strong>
+    Identificação do Aluno
+  </strong>
+</p>
 
 **Nome:** Pedro Henrique Marinho Euzebio
+**Professor(a):** Cintia Reis de Oliveira
 **Curso:** Técnico Subsequente em Informática para Internet
 **Turma:** 2024.1
 
